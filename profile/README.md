@@ -10,7 +10,7 @@
 [YouTube](https://www.youtube.com/channel/UCu7EGHHiNgEN2228BKD1pqg/?sub_confirmation=1)<br />
 [Discord](https://discord.gg/WhDry9FWE7)
 [Telegram](https://t.me/cryptoverseweb3)<br />
-[Instagram](https://instagram.com/CryptoverseWeb3)<br />
-[LinkedIn](http://linkedin.com/company/cryptoverseweb3)
-[Facebook](https://www.facebook.com/cryptoverseweb3)<br />
+[Instagram](https://instagram.com/CryptoverseWeb3)
+[LinkedIn](http://linkedin.com/company/cryptoverseweb3)<br />
+[Facebook](https://www.facebook.com/cryptoverseweb3)
 [Github](https://github.com/CryptoverseWeb3)
