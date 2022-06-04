@@ -1,4 +1,4 @@
-![CryptoverseWeb3](cryptoverseWeb3.png "CryptoverseWeb3")
+![CryptoverseWeb3](./cryptoverseWeb3.png "CryptoverseWeb3")
 
 ## Cryptoverse Web3 Application. <br />
 #### Crypto News / Cryptocurrencies / Crypto Details / Transactions
