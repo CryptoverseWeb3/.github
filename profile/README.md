@@ -6,11 +6,11 @@
 #### 🌐 Website Coming soon.
 
 #### Community Links: ⤵
-[Twitter](https://twitter.com/CryptoverseWeb3)<br />
+[Twitter](https://twitter.com/CryptoverseWeb3)
 [YouTube](https://www.youtube.com/channel/UCu7EGHHiNgEN2228BKD1pqg/?sub_confirmation=1)<br />
-[Discord](https://discord.gg/WhDry9FWE7)<br />
+[Discord](https://discord.gg/WhDry9FWE7)
 [Telegram](https://t.me/cryptoverseweb3)<br />
 [Instagram](https://instagram.com/CryptoverseWeb3)<br />
-[LinkedIn](http://linkedin.com/company/cryptoverseweb3)<br />
+[LinkedIn](http://linkedin.com/company/cryptoverseweb3)
 [Facebook](https://www.facebook.com/cryptoverseweb3)<br />
 [Github](https://github.com/CryptoverseWeb3)
