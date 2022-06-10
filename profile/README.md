@@ -1,4 +1,3 @@
-![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/githubHeaderCryptoverseWeb3.png "CryptoverseWeb3")
 ![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/Github_CryptoverseWeb3.png "CryptoverseWeb3")
 
 # Cryptoverse Web3
@@ -51,10 +50,15 @@ We <i> create content </i> on <b>social media</b>.
 
 ---
 
+![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/githubHeaderCryptoverseWeb3.png "CryptoverseWeb3")
+
+---
+
 [//]: # (### Latest YouTube videos 👇)
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
----
+
+[//]: # (---)
 
 [//]: # (### My Latest Blog Posts 👇 )
 <!-- HASHNODE_BLOG:START -->
@@ -68,5 +72,6 @@ We <i> create content </i> on <b>social media</b>.
 </div>
 ### Achievements, Awards and Recognition
 -->
+
 <!-- --- -->
 
