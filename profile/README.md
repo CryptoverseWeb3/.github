@@ -1,6 +1,11 @@
 ![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/Github_CryptoverseWeb3.png "CryptoverseWeb3")
 
-# Cryptoverse Web3
+<div align="center">
+    <h1>
+        Cryptoverse Web3
+    </h1> 
+</div>
+
 ## 🌌 About Community:
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
@@ -34,18 +39,9 @@ We create <i> Educational</i> content on <b>social media</b>.
    <a href="https://www.linkedin.com/company/CryptoverseWeb3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/c/thecyberworld?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCu7EGHHiNgEN2228BKD1pqg/?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-
-<!--
-  <a href="https://linktree.com/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-<a href="https://linktree.com/CryptoverseWeb3">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
--->
 </p>
 
 ---
