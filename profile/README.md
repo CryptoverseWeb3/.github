@@ -1,5 +1,5 @@
 ![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/GithubfrontCryptoverseWeb3.png "CryptoverseWeb3")
-![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/Github_CryptoverseWeb3.png "CryptoverseWeb3")
+![CryptoverseWeb3](https://github.com/cryptoverseWeb3/.github/blob/main/profile/images/githubHeaderCryptoverseWeb3.png "CryptoverseWeb3")
 
 # Cryptoverse Web3
 ## 🌌 About Community:
