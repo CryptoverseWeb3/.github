@@ -9,22 +9,23 @@
 ## 🌌 About Community:
 - We help new folks to get into <b> Web3 </b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Web3 </b>.
-- Working on <b> Open-source</b> projects.
-- Community website <i> (Coming soon) </i>
-<!--
-- Guided more than 100 folks to get into <b> Web3 </b>.
--->
-
-[//]: # (- Website: <a href="https://www.cryptoverseweb3.com/"> [ Cryptoverse Web3 ]  </a>)
+- <b> Open-source</b> projects.
 
 <p align="center"> 
-<b>Website:</b>
+<b>Official Website:</b>
 <br>
-  <a href="https://www.cryptoverseweb3.com/">
+  <a href="https://www.cryptoverseweb3.com">
     <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   </a>
 </p>
 
+<p align="center">
+  <b>Community Website:</b>
+  <br>
+  <a href="https://www.cryptoverseweb3.com">
+    <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
+  </a>
+</p>
 <p align="center">
 Join the <b> community </b> from here 👇
 <br>
