@@ -22,7 +22,7 @@
 <p align="center">
   <b>Community Website:</b>
   <br>
-  <a href="https://www.cryptoverseweb3.com">
+  <a href="https://community.cryptoverseweb3.com">
     <img src="https://img.shields.io/badge/Cryptoverse Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   </a>
 </p>
