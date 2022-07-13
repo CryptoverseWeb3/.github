@@ -61,7 +61,7 @@ Connect with us on <b>social media</b>:
     <a href="https://twitter.com/CryptoverseWeb3">
         <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="https://blog.cryptoverseweb3.com)">
+    <a href="https://blog.cryptoverseweb3.com">
         <img src="https://img.shields.io/badge/Hashnode-0d1117?style=for-the-badge&logo=hashnode&logoColor=white">
     </a>
     <a href="https://www.instagram.com/CryptoverseWeb3">
