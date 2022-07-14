@@ -15,7 +15,7 @@ Detailed information about the platform can be found [here](https://www.cryptove
   <b>Official  Website:</b>
   <br>
   <a href="https://www.cryptoverseweb3.com" >
-    <img src="https://img.shields.io/badge/Cryptoverse Web3-f26a3d?style=for-the-badge&logo=ethereum&logoColor=white">
+    <img src="https://img.shields.io/badge/Cryptoverse Web3-0d1117?style=for-the-badge&logo=ethereum&logoColor=f26a3d">
   </a>
 
 </div>
